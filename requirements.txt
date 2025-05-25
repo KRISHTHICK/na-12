@@ -1,0 +1,10 @@
+Flask==2.0.1               # For web framework
+opencv-python==4.5.3       # For image processing
+numpy==1.21.0              # For numerical operations
+Pillow==8.2.0              # For image handling
+tensorflow==2.6.0          # For machine learning (if using TensorFlow)
+torch==1.9.0               # For machine learning (if using PyTorch)
+requests==2.26.0           # For making HTTP requests
+beautifulsoup4==4.10.0     # For web scraping
+mediapipe==0.8.6           # For pose estimation
+openai==0.11.3             # For OpenAI API access
